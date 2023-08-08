@@ -11,14 +11,13 @@ This is a web application that allows users to calculate their body mass index (
 
 •  Obese: BMI >= 30
 
-Installation
+# Installation
 To run this app locally, you need to have a web browser that supports JavaScript and HTML5. You can download the source code from this [repository] and open the index.html file in your browser. Alternatively, you can use a live server extension or tool to launch the app from your code editor.
 
-Usage
+# Usage
 To use this app, you can follow these steps:
 
 •  To enter your weight(Kg) and height(Cm) with changing range. 
 
-
-Contact
+# Contact
 If you have any questions, feedback, or suggestions, you can contact me at [mhosseinheidarii@gmail.com] or [@mohi_programmer]. I would love to hear from you! blush.
